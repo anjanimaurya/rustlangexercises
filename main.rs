@@ -1,5 +1,9 @@
 mod traffic_signal_simulation;
+mod singleton_pattern;
 
 fn main(){
-   traffic_signal_simulation::run(); 
+   //uncomment the required program to run
+   
+   //traffic_signal_simulation::run(); 
+   //singleton_pattern::run_demo();
 }
